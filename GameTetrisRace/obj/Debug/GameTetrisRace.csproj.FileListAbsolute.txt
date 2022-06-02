@@ -1,0 +1,44 @@
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\bin\Debug\GameTetrisRace.exe.config
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\obj\Debug\GameTetrisRace.FormView.resources
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\obj\Debug\GameTetrisRace.Properties.Resources.resources
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\obj\Debug\GameTetrisRace.csproj.GenerateResource.Cache
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\bin\Debug\GameTetrisRace.exe
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\bin\Debug\GameTetrisRace.pdb
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\obj\Debug\GameTetrisRace.exe
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\obj\Debug\GameTetrisRace.pdb
+D:\My Documents\University II\Programming\GameTetrisRace\GameTetrisRace\obj\Debug\GameTetrisRace.csprojResolveAssemblyReference.cache
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\GameTetrisRace.FormView.resources
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\GameTetrisRace.Properties.Resources.resources
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\GameTetrisRace.csproj.GenerateResource.Cache
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\bin\Debug\Game Tetris-Race.exe.config
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\bin\Debug\Game Tetris-Race.exe
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\bin\Debug\Game Tetris-Race.pdb
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\Game Tetris-Race.exe
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\Game Tetris-Race.pdb
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\GameTetrisRace.Help.resources
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\GameTetrisRace.Settings.resources
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\GameTetrisRace.Authors.resources
+D:\My Documents\University II\Programming\Курсовая\GTR\GameTetrisRace\obj\Debug\GameTetrisRace.csprojResolveAssemblyReference.cache
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\bin\Debug\Game Tetris-Race.exe.config
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\Game Tetris-Race.exe
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\Game Tetris-Race.pdb
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\bin\Debug\Game Tetris-Race.exe
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\bin\Debug\Game Tetris-Race.pdb
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\GameTetrisRace.csprojResolveAssemblyReference.cache
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\GameTetrisRace.Authors.resources
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\GameTetrisRace.FormView.resources
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\GameTetrisRace.Help.resources
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\GameTetrisRace.Properties.Resources.resources
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\GameTetrisRace.Settings.resources
+C:\Users\Pony Montana\Desktop\Game Tetris-Race\GameTetrisRace\obj\Debug\GameTetrisRace.csproj.GenerateResource.Cache
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\bin\Debug\Game Tetris-Race.exe.config
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\Game Tetris-Race.exe
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\Game Tetris-Race.pdb
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\bin\Debug\Game Tetris-Race.exe
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\bin\Debug\Game Tetris-Race.pdb
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\GameTetrisRace.Authors.resources
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\GameTetrisRace.FormView.resources
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\GameTetrisRace.Help.resources
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\GameTetrisRace.Properties.Resources.resources
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\GameTetrisRace.Settings.resources
+C:\Users\Pony Montana\Desktop\Проект\GameTetrisRace\obj\Debug\GameTetrisRace.csproj.GenerateResource.Cache
