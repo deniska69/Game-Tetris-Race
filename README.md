@@ -1,1 +1,7 @@
-# Game-Tetris-Race
+# Игра "Game Tetris Race"
+
+## Язык разработки:
+
+```
+C#
+```
